@@ -1,0 +1,16 @@
+[project]
+name = "xenolith-melt-vein-modeling"
+version = "0.1.0"
+description = "Olivine Fe-Mg diffusion modeling of melt veins in peridotite xenoliths (Towbin and Plank 2026, J. Petrology)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.30.1",
+    "matplotlib>=3.10.6",
+    "mplstereonet>=0.6.3",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.2",
+    "pykrige>=1.7.2",
+    "scipy>=1.16.1",
+    "seaborn>=0.13.2",
+]

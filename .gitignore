@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# macOS and Office temp files
+.DS_Store
+~$*
+
+# Plots the script regenerates that are not kept in the repo
+# (the model fits are kept as SVGs in Xenolith_Ol_Diffusion_Models/)
+/*_model.png
+/*_diffusion_plus_*.svg
+/Xenlith+Magma_ascent_path_Draft_version.svg

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Xenolith melt vein modeling"
+type: software
+authors:
+  - family-names: Towbin
+    given-names: W. Henry
+license: MIT
+repository-code: "https://github.com/whtowbin/Xenolith_Melt_Vein_Modeling"
+preferred-citation:
+  type: article
+  title: "Decompression Melting of Peridotite Xenoliths"
+  authors:
+    - family-names: Towbin
+      given-names: W. Henry
+    - family-names: Plank
+      given-names: Terry
+  journal: "Journal of Petrology"
+  year: 2026
+  volume: 67
+  issue: 9
+  start: egag077
+  doi: "10.1093/petrology/egag077"
